@@ -1,0 +1,57 @@
+body{
+  background-image: url('https://assets.bigcartel.com/product_images/216189835/LOTR_Towers.png?auto=format&fit=max&h=1000&w=1000')
+}
+
+p{
+  margin: 10px 40px 10px 40px;
+  text-align: center;
+}
+
+
+nav{
+  bakcground-color: white;
+  text-decoration: none;
+}
+
+
+h1{
+  text-align: center;
+  font-family: 'Gentium Book Basic', serif;
+  color:beige;
+  background-color: black;
+  text-shadow: -2px 2px 3px white;
+}
+
+
+h3{
+  text-align: center;
+}
+
+
+h2{
+  text-align: center;
+  letter-spacing: 1em;
+  text-transform: uppercase;
+  color: #F5F5DC;
+  background-color: black;
+  padding: 0px 5px 0px 5px;
+}
+
+
+article{
+  background-color: rgb(253,245,230);
+  font-family: 'Roboto Slab', serif;
+  font-size: 1em;
+  border: 10px solid black
+}
+
+
+header{
+  text-align: center;
+}
+
+
+a:link{
+  text-decoration:none;
+}
+

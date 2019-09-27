@@ -1,0 +1,40 @@
+body{
+  background-image: url("https://images5.alphacoders.com/376/thumb-350-376565.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+section header h1{
+  text-align: center;
+}
+
+
+h2{
+  text-transform: uppercase;
+  letter-spacing: 1em;
+  font-family: 'Notable', sans-serif;
+  font-size: 2em;
+  border: 10px solid black;
+  background-image: url("https://addons-media.operacdn.com/media/CACHE/images/themes/65/71665/1.0-rev1/images/ededa5f0-1e8a-442d-9231-c3b609500449/c7e91ed2ac87478d75b04906882d5704.jpg");
+  text-align: center;
+}
+
+h4{
+
+  text-transform: uppercase;
+  border: 10px solid black;
+  background-image: url("https://addons-media.operacdn.com/media/CACHE/images/themes/65/71665/1.0-rev1/images/ededa5f0-1e8a-442d-9231-c3b609500449/c7e91ed2ac87478d75b04906882d5704.jpg");
+  text-align: center;
+}
+
+p{
+  font-family: 'Josefin Slab', serif;
+  font-size: 1.5em;
+  background-color:beige;
+  border-style: dashed;
+  border-radius: 10px;
+}
+
+article p{
+
+}
